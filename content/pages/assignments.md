@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 ---
@@ -512,6 +515,6 @@ You will present your _Godot_ research to the class today. No more than 5 minute
 ----------------------------------------------------------------
 
 In Session 15, students discussed three characters from _Macbeth_: Lady Macbeth, Banquo, and Witch 1. Each student created a collage reflecting their understanding of their chosen character.
-{{< image-gallery id="2a33c1f3-620e-8d1f-eb0b-791e7076de38_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-611-foundations-of-theater-practice-fall-2009/" >}}
+{{< image-gallery id="2a33c1f3-620e-8d1f-eb0b-791e7076de38_nanogallery2" baseUrl="/courses/21m-611-foundations-of-theater-practice-fall-2009/" >}}
 {{< image-gallery-item href="ed659a55f8fa864c14086132f1e7a8d1_collage.jpg" data-ngdesc="A collage representing Lady Macbeth and her ambition, which drives her and her husband to ruin." text="A collage representing Lady Macbeth and her ambition, which drives her and her husband to ruin." >}}
 {{</ image-gallery >}}

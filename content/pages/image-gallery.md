@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: c3723058-a22d-366d-5900-c97bb88dedc8
 ---
 
 Groups of students designed sets for Wes Savick's play _R.U.R. (Rossum's Universal Robots)_. In Session #18, they constructed models of major set elements and placed them on a replica stage. All work is used with permission of the students.
-{{< image-gallery id="c3723058-a22d-366d-5900-c97bb88dedc8_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-611-foundations-of-theater-practice-fall-2009/" >}}
+{{< image-gallery id="c3723058-a22d-366d-5900-c97bb88dedc8_nanogallery2" baseUrl="/courses/21m-611-foundations-of-theater-practice-fall-2009/" >}}
 {{< image-gallery-item href="4597d7a23b7ea7d98ddeb4dc0695e156_IMG_0567.jpg" data-ngdesc="Furniture and backdrop made of white cardstock are placed on a miniature stage in black foamboard." text="Furniture and backdrop made of white cardstock are placed on a miniature stage in black foamboard." >}}
 {{< image-gallery-item href="aa1231ca1a2bf5e0ac9b7381f7c9d7c1_IMG_0574.jpg" data-ngdesc="The desk here has flaps folded over and glued, and bookshelves/windows sketched directly onto the backdrop." text="The desk here has flaps folded over and glued, and bookshelves/windows sketched directly onto the backdrop." >}}
 {{< image-gallery-item href="b1db6d83caad1fd5c89a491bdec01dbe_IMG_0578.jpg" data-ngdesc="The chair, table, and human figurine in this set are molded of silver clay." text="The chair, table, and human figurine in this set are molded of silver clay." >}}
