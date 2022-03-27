@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 resourcetype: Document
 title: 'Set Design: R.U.R. scenic design preliminary research'
 uid: 8bf45da1-3091-4e06-b955-33625e11e002

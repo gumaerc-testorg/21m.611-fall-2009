@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 resourcetype: Document
 title: 'Set Design: R.U.R. design groundplans and model'
 uid: ea60633b-c5b6-45c7-8c97-68838067b1a0

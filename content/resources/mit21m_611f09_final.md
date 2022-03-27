@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: f0442181-2948-6048-19c9-8fc5f22ff6b0
 resourcetype: Document
 title: 'Final Exam: Waiting for Godot'
 uid: e2e706c1-bd73-c115-fbf1-12cc7ef124bb

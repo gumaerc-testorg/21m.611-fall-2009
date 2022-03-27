@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 resourcetype: Image
 title: Lady Macbeth and her ambition
 uid: ed659a55-f8fa-864c-1408-6132f1e7a8d1
