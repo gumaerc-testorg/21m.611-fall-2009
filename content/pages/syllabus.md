@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, objectives, readings, grading, and the final exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -122,4 +124,4 @@ Final exam
 
 {{< tableclose >}}
 
-Guidelines for the Final Exam ([PDF]({{< baseurl >}}/resources/mit21m_611f09_final))
+Guidelines for the Final Exam ({{% resource_link e2e706c1-bd73-c115-fbf1-12cc7ef124bb "PDF" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Gallery of images showing models of major set elements designed by groups
+  of students for Wes Savick's play R.U.R. (Rossum's Universal Robots).
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
