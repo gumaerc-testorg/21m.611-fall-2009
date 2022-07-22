@@ -6,6 +6,7 @@ file: /courses/21m-611-foundations-of-theater-practice-fall-2009/8eeb02e0a6f8765
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Set Design: R.U.R. final design image'
 uid: 8eeb02e0-a6f8-7652-a545-b030fa1a6583
 ---
 Assignment to produce a final design image for a set for one moment of Karel Čapek's 1920 science fiction play, R.U.R.
-

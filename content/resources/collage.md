@@ -13,6 +13,7 @@ image_metadata:
     and flowers surround and overlay the face.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: Lady Macbeth and her ambition
 uid: ed659a55-f8fa-864c-1408-6132f1e7a8d1
 ---
 A collage representing Lady Macbeth and her ambition, which drives her and her husband to ruin.
-

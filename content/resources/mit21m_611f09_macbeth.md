@@ -6,6 +6,7 @@ file: /courses/21m-611-foundations-of-theater-practice-fall-2009/35a968dabb209b6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Mini Research Assignment: Macbeth'
 uid: 35a968da-bb20-9b69-1fa1-6e95dae13d0a
 ---
 Assignment to research and then deliver a group presentation on Shakespeare's Macbeth.
-
