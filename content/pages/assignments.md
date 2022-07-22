@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of class activities, assignments,
+  and a Macbeth character study.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 ---
@@ -162,7 +167,7 @@ Activity: _Too Much Light_ scene work.
 Discuss _Macbeth_; what research do we need to understand the play better?
 {{< tdclose >}}
 {{< tdopen >}}
-Research: _Macbeth_ mini-research group presentations. Due Session #10 ([PDF]({{< baseurl >}}/resources/mit21m_611f09_macbeth))
+Research: _Macbeth_ mini-research group presentations. Due Session #10 ({{% resource_link 35a968da-bb20-9b69-1fa1-6e95dae13d0a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,8 +334,7 @@ Guest Lecture: Cary Fukunaga, director of the film _Sin Nombre_.
 {{< tdopen >}}
 
 
-Set Design: _R.U.R._ scenic design preliminary research. Due Session #18 ([PDF]({{< baseurl >}}/resources/mit21m_611f09_setdesign1))[  
-]({{< baseurl >}}/pages/image-gallery)
+Set Design: _R.U.R._ scenic design preliminary research. Due Session #18 ({{% resource_link 8bf45da1-3091-4e06-b955-33625e11e002 "PDF" %}}){{% resource_link "c3723058-a22d-366d-5900-c97bb88dedc8" "   " %}}
 
 
 {{< tdclose >}}
@@ -354,9 +358,9 @@ Discuss _R.U.R._
 
 Please come with a pencil and something to draw on (unlined is best). 8 1/2x11 or even a bit smaller is just fine.
 
-Set Design: _R.U.R._ design groundplans and model. Due Session #20 ([PDF]({{< baseurl >}}/resources/mit21m_611f09_setdesign2))
+Set Design: _R.U.R._ design groundplans and model. Due Session #20 ({{% resource_link ea60633b-c5b6-45c7-8c97-68838067b1a0 "PDF" %}})
 
-[Student Work Photos]({{< baseurl >}}/pages/image-gallery)
+{{% resource_link c3723058-a22d-366d-5900-c97bb88dedc8 "Student Work Photos" %}}
 
 
 {{< tdclose >}}
@@ -385,7 +389,7 @@ Guest Lecture: Sara Brown. Set Design.
 {{< tdopen >}}
 
 
-Set Design: _R.U.R._ final design image. Due Session #22 ([PDF]({{< baseurl >}}/resources/mit21m_611f09_setdesign3))
+Set Design: _R.U.R._ final design image. Due Session #22 ({{% resource_link 8eeb02e0-a6f8-7652-a545-b030fa1a6583 "PDF" %}})
 
 Reading: _R.U.R._ again, to prep for Wes Savick in class. Due Session #25
 
@@ -512,6 +516,6 @@ You will present your _Godot_ research to the class today. No more than 5 minute
 ----------------------------------------------------------------
 
 In Session 15, students discussed three characters from _Macbeth_: Lady Macbeth, Banquo, and Witch 1. Each student created a collage reflecting their understanding of their chosen character.
-{{< image-gallery id="2a33c1f3-620e-8d1f-eb0b-791e7076de38_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-611-foundations-of-theater-practice-fall-2009/" >}}
+{{< image-gallery id="2a33c1f3-620e-8d1f-eb0b-791e7076de38_nanogallery2" baseUrl="/courses/21m-611-foundations-of-theater-practice-fall-2009/" >}}
 {{< image-gallery-item href="ed659a55f8fa864c14086132f1e7a8d1_collage.jpg" data-ngdesc="A collage representing Lady Macbeth and her ambition, which drives her and her husband to ruin." text="A collage representing Lady Macbeth and her ambition, which drives her and her husband to ruin." >}}
 {{</ image-gallery >}}
