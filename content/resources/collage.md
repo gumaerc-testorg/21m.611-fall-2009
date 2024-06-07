@@ -3,6 +3,7 @@ content_type: resource
 description: A collage representing Lady Macbeth and her ambition, which drives her
   and her husband to ruin.
 file: /courses/21m-611-foundations-of-theater-practice-fall-2009/ed659a55f8fa864c14086132f1e7a8d1_collage.jpg
+file_size: 105929
 file_type: image/jpeg
 image_metadata:
   caption: A collage representing Lady Macbeth and her ambition, which drives her
