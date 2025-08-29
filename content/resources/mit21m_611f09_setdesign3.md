@@ -2,7 +2,7 @@
 content_type: resource
 description: "Assignment to produce a final design image for a set for one moment\
   \ of Karel \u010Capek's 1920 science fiction play, R.U.R."
-file: /courses/21m-611-foundations-of-theater-practice-fall-2009/8eeb02e0a6f87652a545b030fa1a6583_MIT21M_611F09_setdesign3.pdf
+file: /ol-ocw-studio-app/courses/21m-611-foundations-of-theater-practice-fall-2009/8eeb02e0a6f87652a545b030fa1a6583_MIT21M_611F09_setdesign3.pdf
 file_size: 114775
 file_type: application/pdf
 learning_resource_types:
