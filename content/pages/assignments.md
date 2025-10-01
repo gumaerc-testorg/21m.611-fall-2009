@@ -127,7 +127,7 @@ Rhythm and poetry in _Fences_.
 
 Reading: _Macbeth_. Due Session #9
 
-Viewing: [_Fences_](http://www.huntingtontheatre.org/about/history/2009-2010/Fences/) at the Huntington Theater, Boston University Theatre.
+Viewing: {{% resource_link "4e39d353-b5d4-47ba-bdd8-4e6d4f59b063" "_Fences_" %}} at the Huntington Theater, Boston University Theatre.
 
 Writing: A 3-page analytical paper discussing the performance of _Fences_. You may choose to address a single aspect of the production (acting, directing, lighting, costumes, set) and discuss how the artist created the narrative line through. Or, you may elect to speak about two or three aspects, but you must put them in relation to one another. The thing to avoid is a review! These are critical and analytical essays, and what I will be looking for is how well you observe how the event was _made_ and how well you can analyze and describe it. Cite specifics from the production! Due Session #7
 
@@ -241,7 +241,7 @@ Acting; compositions; _Macbeth_.
 {{< tdopen >}}
 
 
-Viewing: [_Sleep No More_](https://www.punchdrunk.com/project/sleep-no-more-shanghai/), performed by UK company Punchdrunk. Due Session #14
+Viewing: {{% resource_link "78ab0b31-861c-43c8-8464-1bb01198f579" "_Sleep No More_" %}}, performed by UK company Punchdrunk. Due Session #14
 
 Writing: Discuss this devised play, _Sleep No More_, an interpretation of _Macbeth_. What was important to the company? What was gained; what was lost? Was it still _Macbeth_? Why or why not? If it wasn't _Macbeth_, what was it? As always, cite specifics from the production. 3 pages. Due Session #14
 
@@ -374,8 +374,7 @@ Set Design: _R.U.R._ design groundplans and model. Due Session #20 ({{% resource
 Holiday — no class
 {{< tdclose >}}
 {{< tdopen >}}
-Viewing: [_Too Much Light Makes the Baby Go Blind_](http://calendar.boston.com/cambridge_ma/events/show/89237354-too-much-light-makes-the-baby-go-blind
-) at Kresge Little Theater, MIT Dramashop. Be prepared to discuss in class.
+Viewing: {{% resource_link "89c2445b-d342-46f5-a8f3-cc8f366e94ba" "_Too Much Light Makes the Baby Go Blind_" %}} at Kresge Little Theater, MIT Dramashop. Be prepared to discuss in class.
 {{< tdclose >}}
 
 {{< trclose >}}
