@@ -50,15 +50,15 @@ Wilson, August. _Fences_. New York, NY: New American Library, 1986. ISBN: 978045
 
 Allen, Greg. _Too Much Light Makes the Baby Go Blind_. Chicago, IL: Neo-Futurists, 1993. ISBN: 9781568500317.
 
-Shakespeare, William. [_Macbeth_](http://www.gutenberg.org/etext/2264). Edited by Kenneth Muir. London, England: Arden Shakespeare, 1997. ISBN: 9781903436486.
+Shakespeare, William. {{% resource_link "40ae5f8e-5fc3-474d-b37e-1a3cb2b93e77" "_Macbeth_" %}}. Edited by Kenneth Muir. London, England: Arden Shakespeare, 1997. ISBN: 9781903436486.
 
 Savick, Wesley. _R.U.R. (Rossum’s Universal Robots)_. Unpublished, 2009.
 
 Beckett, Samuel. _Waiting for Godot_. New York, NY: Grove Press, 1954.
 
-Kurosawa, Akira. [_Throne of Blood_](http://www.imdb.com/title/tt0050613/). Irvington, NY: Criterion Collection, 2003.
+Kurosawa, Akira. {{% resource_link "30e6ab67-ae02-422a-9ef8-3702cec579f6" "_Throne of Blood_" %}}. Irvington, NY: Criterion Collection, 2003.
 
-Fukunaga, Cary. [_Sin Nombre_](http://www.imdb.com/title/tt1127715/). Universal City, CA: Focus Features, 2009.
+Fukunaga, Cary. {{% resource_link "04b72b52-47d3-4eea-b4c7-d7a937b8461a" "_Sin Nombre_" %}}. Universal City, CA: Focus Features, 2009.
 
 Grading
 -------
